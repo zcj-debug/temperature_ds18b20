@@ -1,0 +1,14 @@
+Partition Merge Status : Successful - Sat Aug 13 10:35:15 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : temprature
+Top-level Entity Name : temp_top
+Family : Cyclone IV E
+Total logic elements : 1,757
+    Total combinational functions : 1,736
+    Dedicated logic registers : 142
+Total registers : 142
+Total pins : 20
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

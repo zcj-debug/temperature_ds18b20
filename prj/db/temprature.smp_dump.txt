@@ -1,0 +1,16 @@
+
+State Machine - |temp_top|ds18b20:U_ds18b20|ratio
+Name ratio.00011111 ratio.01011111 ratio.00111111 ratio.01111111 
+ratio.01111111 0 0 0 0 
+ratio.00111111 0 0 1 1 
+ratio.01011111 0 1 0 1 
+ratio.00011111 1 0 0 1 
+
+State Machine - |temp_top|ds18b20:U_ds18b20|state_c
+Name state_c.READ state_c.CONVERT state_c.SET state_c.SKROM state_c.INIT state_c.IDLE 
+state_c.IDLE 0 0 0 0 0 0 
+state_c.INIT 0 0 0 0 1 1 
+state_c.SKROM 0 0 0 1 0 1 
+state_c.SET 0 0 1 0 0 1 
+state_c.CONVERT 0 1 0 0 0 1 
+state_c.READ 1 0 0 0 0 1 

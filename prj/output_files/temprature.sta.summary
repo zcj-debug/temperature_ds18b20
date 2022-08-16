@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'dig_demo:U_dig_demo|SEL[0]'
+Slack : -50.939
+TNS   : -205.597
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -5.995
+TNS   : -543.128
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'dig_demo:U_dig_demo|SEL[0]'
+Slack : 0.875
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -214.154
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'dig_demo:U_dig_demo|SEL[0]'
+Slack : 0.120
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'dig_demo:U_dig_demo|SEL[0]'
+Slack : -46.836
+TNS   : -189.192
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -5.451
+TNS   : -496.068
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.363
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'dig_demo:U_dig_demo|SEL[0]'
+Slack : 0.790
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -214.154
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'dig_demo:U_dig_demo|SEL[0]'
+Slack : -0.098
+TNS   : -1.062
+
+Type  : Fast 1200mV 0C Model Setup 'dig_demo:U_dig_demo|SEL[0]'
+Slack : -21.712
+TNS   : -87.334
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -1.975
+TNS   : -151.024
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'dig_demo:U_dig_demo|SEL[0]'
+Slack : 0.209
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -154.104
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'dig_demo:U_dig_demo|SEL[0]'
+Slack : 0.265
+TNS   : 0.000
+
+------------------------------------------------------------

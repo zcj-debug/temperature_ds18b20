@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGA/Code/temperature_ds18b20/tb
+vdig_demo
+Z1 !s110 1660624103
+!i10b 1
+!s100 IkiKS0hB`0bFh>ZBFd<UI1
+IoldW6<APC;bd5V>7<_PQB3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1660304090
+8../rtl/dig_demo.v
+F../rtl/dig_demo.v
+Z3 L0 10
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1660624103.000000
+Z6 !s107 ../rtl/temp_top.v|../rtl/key_filter.v|../rtl/ds18b20_driver.v|../rtl/ds18b20.v|../rtl/dig_demo.v|
+Z7 !s90 -reportprogress|300|../rtl/dig_demo.v|../rtl/ds18b20.v|../rtl/ds18b20_driver.v|../rtl/key_filter.v|../rtl/temp_top.v|
+!i113 1
+Z8 tCvgOpt 0
+vds18b20
+R1
+!i10b 1
+!s100 jjJ1Wl_lWLbk:[nR_Ijf93
+I34Pe:8oamWGkjPmY:@HLn1
+R2
+R0
+w1660357450
+8../rtl/ds18b20.v
+F../rtl/ds18b20.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vds18b20_driver
+R1
+!i10b 1
+!s100 E6S@g]fclo2iMf`]OKgb43
+ITT1HlDdCzI3Fma:Doz5Bd3
+R2
+R0
+w1660269628
+8../rtl/ds18b20_driver.v
+F../rtl/ds18b20_driver.v
+L0 11
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vkey_filter
+R1
+!i10b 1
+!s100 aY`4Fi>_g0K?lfHOAI=9_0
+ITla>Ynz[:6U<an8E9QDdT2
+R2
+R0
+w1660294622
+8../rtl/key_filter.v
+F../rtl/key_filter.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vtb_ds18b20
+R1
+!i10b 1
+!s100 GU00L4?NS`fITk5_>mJK[0
+I9e6h9?;Ka08MDZB6B1<AS0
+R2
+R0
+w1660357642
+8tb_ds18b20.v
+Ftb_ds18b20.v
+L0 12
+R4
+r1
+!s85 0
+31
+R5
+!s107 tb_ds18b20.v|
+!s90 -reportprogress|300|tb_ds18b20.v|
+!i113 1
+R8
+vtemp_top
+R1
+!i10b 1
+!s100 dJkSz6^DUWM:WAF`A@mVG2
+IMO<1G@>z>nlCaZh_Z_G?]1
+R2
+R0
+w1660353215
+8../rtl/temp_top.v
+F../rtl/temp_top.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8

@@ -4,7 +4,7 @@
     up file         : temp_top.v
     reversion       : 
         v1.0 : 2022-8-10 15:55:30
-    author          : 张宸君
+    author          : 张某某
 \*========================================*/
 
 module ds18b20 #(parameter MS_200 = 24'd10_000_000)(
